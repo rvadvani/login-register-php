@@ -1,0 +1,4 @@
+/*import extra css from other site in css file
+ @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"); */ 
+ @font-face { font-family: ubuntu; src: url(../ubuntu/Ubuntu-R.ttf); } body { font-family: ubuntu !important; } .div-box{border: 1px solid #ddd;box-shadow: 0px 6px 12px #777;margin-top: 10px;padding: 20px;}
+ .footer { width: 100%; background: #ddd;padding: 12px;box-shadow: 0px 3px 3px #777;position: fixed;bottom: 0; } .set_height{ height: 80px; }
